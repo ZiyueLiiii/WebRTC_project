@@ -4,9 +4,6 @@ This project allows multiple devices to connect with eachother with audio and vi
 The package [simple-peer](https://github.com/feross/simple-peer) is used for webrtc.
 The implementation of the signaling server is done with [socket.io](https://socket.io/)
 
-## Demo
-[Demo on heroku](https://dirvann-webrtc-video.herokuapp.com/)
-
 ## Running
 
 run `npm install` and then `npm start` in the main directory.
